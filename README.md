@@ -1,21 +1,31 @@
 # Rob Simpson
 
-Senior Software Engineer with 15+ years experience in the government and enterprise sectors. Expertise in modern frameworks/libraries, modular component architecture, and cloud-enabled services. I specialize in transforming legacy monoliths into maintainable, accessible, and high-performance ecosystems.
+Senior Software Engineer with 15+ years experience. Enjoy modern frameworks/libraries, modular component architecture, and cloud-enabled services.
 
-I believe that in an era of rapid AI advancement, the most critical skill is **Meta-Learning**—understanding the mechanics of how we acquire and apply new knowledge.
+I thoroughly enjoy **Meta-Learning** — understanding the mechanics of how we acquire and apply new knowledge.
 
 ## Currently Building & Learning
 
-My current focus is shifting from "AI-assisted development" to **"AI Engineering"**—understanding the low level design of RAG, embeddings, and model orchestration.
+My current focus is **"AI Engineering"** — understanding the low level design of RAG, embeddings, and model orchestration.
 
-* 🤖 **PLANTS NLQI** — A Natural Language Query Interface for the USDA botanical database. Solving for accuracy in specialized scientific domains using RAG.
-* 📚 **OpenSpec Architecture** — Experimenting with declarative, YAML-based AI agent definitions to ensure developer-led control over agentic workflows.
-* 💡 **Model Translation** — Learning to port Python ML models to browser-ready TypeScript/TensorFlow.js to enable high-performance, client-side intelligence.
-* ♿ **508 Accessibility Tools** — Prototyping applications that help developers automate and verify Section 508/WCAG compliance in modern SPAs.
+* **PLANTS NLQI** — A Natural Language Query Interface for the USDA botanical database. Solving for accuracy in specialized scientific domains using RAG.
+* **OpenSpec Architecture** — Experimenting with declarative, YAML-based AI agent definitions to ensure developer-led control over agentic workflows.
+* **Model Translation** — Learning to port Python ML models to browser-ready TypeScript/TensorFlow.js to enable high-performance, client-side intelligence.
+* **508 Accessibility Tools** — Prototyping applications that help developers automate and verify Section 508/WCAG compliance in modern SPAs.
 
 ---
 
-## 🚀 Featured Repositories
+## Code Challenge Platforms
+
+I enjoy learning and challenging myself at these platforms:
+
+- [LeetCode](https://leetcode.com/u/warlhord/)
+- [greatfrontend](https://www.greatfrontend.com/)
+- [FrontendMasters](https://frontendmasters.com/u/pertrai1/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/pertrai1)
+- [exercism](https://exercism.org/profiles/pertrai1)
+
+## My Funnest Repos
 
 ### [ai-projects](https://github.com/pertrai1/ai-projects)
 *A lab for production-ready AI implementations.*
@@ -30,15 +40,6 @@ My current focus is shifting from "AI-assisted development" to **"AI Engineering
 
 ---
 
-## 💻 Technical Stack
-* **Core:** JavaScript, TypeScript, Python, HTML5, CSS3/SCSS
-* **Frameworks:** Angular, React, Vue.js, Node.js
-* **Compliance:** Section 508, WCAG 2.1, Semantic HTML, ARIA
-* **AI/ML (Research):** Claude API, RAG, Pinecone (Vector DB), Voyage AI, TensorFlow.js
-* **DevOps:** AWS (Lambda, S3), GitHub Actions (AI-integrated PR reviews), Docker, Jenkins
-
----
-
-## 📫 Connect with Me
+## Connect with Me
 * **LinkedIn:** [linkedin.com/in/rsimpson2](https://linkedin.com/in/rsimpson2)
 * **GitHub:** [github.com/pertrai1](https://github.com/pertrai1)

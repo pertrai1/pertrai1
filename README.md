@@ -1,6 +1,6 @@
 # Rob Simpson
 
-Senior Software Engineer with 15+ years experience. Enjoy modern frameworks/libraries, modular component architecture, and cloud-enabled services.
+Software Engineer with 15+ years experience. Enjoy modern frameworks/libraries, modular component architecture, and cloud-enabled services.
 
 I thoroughly enjoy **Meta-Learning** — understanding the mechanics of how we acquire and apply new knowledge.
 

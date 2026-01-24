@@ -1,6 +1,6 @@
 # Rob Simpson
 
-Software Engineer with 15+ years experience. Enjoy modern frameworks/libraries, modular component architecture, and cloud-enabled services.
+Software Engineer with 15+ years experience.
 
 I thoroughly enjoy **Meta-Learning** — understanding the mechanics of how we acquire and apply new knowledge.
 
@@ -21,8 +21,7 @@ I enjoy learning and challenging myself at these platforms:
 
 - [LeetCode](https://leetcode.com/u/warlhord/)
 - [greatfrontend](https://www.greatfrontend.com/)
-- [FrontendMasters](https://frontendmasters.com/u/pertrai1/)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/pertrai1)
+- [Frontend Mentor](https://pertrai1.github.io/frontend-challenges/)
 - [exercism](https://exercism.org/profiles/pertrai1)
 
 ## My Funnest Repos

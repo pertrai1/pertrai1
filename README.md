@@ -29,3 +29,22 @@ My current focus is **"AI Engineering"** - understanding the low level design of
 * **Languages:** TypeScript, Python
 * **AI/ML:** RAG, LLMs, Reinforcement Learning
 * **Other:** System Design
+
+## My Funnest Repos
+
+### [ai-projects](https://github.com/pertrai1/ai-projects)
+*A lab for production-ready AI implementations.*
+* **FieldGuide Assistant:** Multi-document RAG system focused on context-aware retrieval.
+* **Agent Orchestration:** Building frameworks that keep the human "in the loop," prioritizing developer agency over autonomous agent control.
+
+### [coding-challenges](https://github.com/pertrai1/coding-challenges)
+*A laboratory for problem-solving and meta-learning.*
+* **Learning How to Learn:** Using challenges as a medium to refine **Active Recall** and **Spaced Repetition** techniques in a technical context.
+* **First Principles:** Breaking down complex problems into primitive patterns (Graph theory, Dynamic Programming, Sliding Windows) to build a reusable mental library for system design.
+* **Process over Product:** Each solution is an exercise in documenting the "why"—translating abstract requirements into clean, performant TypeScript/Python code.
+
+---
+
+## Connect with Me
+* **LinkedIn:** [linkedin.com/in/rsimpson2](https://linkedin.com/in/rsimpson2)
+* **GitHub:** [github.com/pertrai1](https://github.com/pertrai1)
